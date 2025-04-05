@@ -1,0 +1,50 @@
+{
+    "name": "Aman Kumar",
+    "current_designation": "Upcoming SDE @Pursuit Software | IIT BHU 2025 | MERN Stack Developer | Data Structures and Algorithms",
+    "current_company": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+    "current_tenure": {
+        "endDate": {
+            "month": 11,
+            "year": 2023
+        },
+        "startDate": {
+            "month": 11,
+            "year": 2022
+        }
+    },
+    "overall_experience": "",
+    "location": "India",
+    "education": [
+        {
+            "institution": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "degree": "IDD(B.tech+ M.tech)",
+            "duration": " \u2013 "
+        },
+        {
+            "institution": "FIITJEE",
+            "degree": "",
+            "duration": " \u2013 "
+        },
+        {
+            "institution": "Jawahar Navodaya Vidyalaya (JNV)",
+            "degree": "",
+            "duration": " \u2013 "
+        }
+    ],
+    "skills": [
+        {
+            "name": "NoSQL"
+        },
+        {
+            "name": "Server Side"
+        },
+        {
+            "name": "authentication"
+        },
+        {
+            "name": "Database Management System (DBMS)"
+        }
+    ],
+    "connections_count": "500+",
+    "is_open_to_work": false
+}

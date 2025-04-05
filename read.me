@@ -1,0 +1,37 @@
+# LinkedIn Profile Scraper
+
+A Python script to fetch and save LinkedIn profile data using the unofficial LinkedIn API.
+
+## Features
+
+- Fetches basic profile information from LinkedIn
+- Extracts:
+  - Name, headline, and current company
+  - Education history
+  - Skills
+  - Location and connection count
+  - Open to work status
+- Saves data in a structured JSON format
+
+## Requirements
+
+- Python 3.x
+- `linkedin-api` package
+- LinkedIn account credentials
+
+## Installation
+
+1. Clone this repository
+2. Install dependencies:
+   ```bash
+   pip install linkedin-api
+
+Run the script:
+python linkedin_scraper.py
+When prompted, enter:
+Your LinkedIn email and password (hardcoded in script - see Security Note)
+The profile ID or URL you want to scrape
+Example profile input:
+john-doe
+https://www.linkedin.com/in/john-doe/
+The script will save the profile data to linkedin_profile.json   
